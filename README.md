@@ -1,4 +1,4 @@
-- 👋 Hi there! I’m Paidi Pavan Kumar, a technology enthusiast passionate about enhancing my skills in Java, Data Structures and Algorithms (DSA), and Full Stack Development.
+- 👋 Hi there! I’m Paidi Pavan Kumar, a technology enthusiast passionate about enhancing my skills in Java, Data Structures and Algorithms (DSA), Spring Boot and Full Stack Development.
 
 - I am particularly fascinated by the intersection of programming, problem-solving, and web development. I strive to craft efficient algorithms, build robust applications in Java, and create dynamic web solutions using Full Stack technologies.
 
